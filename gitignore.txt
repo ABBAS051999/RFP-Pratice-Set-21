@@ -1,2 +1,4 @@
 junck.txt
 test.ext
+user.txt
+junck.ext
